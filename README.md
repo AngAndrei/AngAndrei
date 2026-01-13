@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 As a fourth-year student studying Computer Science at Faculty of Engineering in Foreign Languages of University POLITEHNICA from Bucharest, I am an enthusiastic learner, proficient in programming languages such as Python, Java and Javascript with a keen interest in machine learning, especially Deep Learning, Computer Vision, Agentic AI and Natural Language Processing, as well as IOT.
 
 
