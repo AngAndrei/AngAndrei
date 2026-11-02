@@ -1,6 +1,5 @@
 # About Me:
-As a fourth-year student studying Computer Science at Faculty of Engineering in Foreign Languages of University POLITEHNICA from Bucharest, I am an enthusiastic learner, proficient in programming languages such as Python, Java and Javascript with a keen interest in machine learning, especially Deep Learning, Computer Vision, Agentic AI and Natural Language Processing, as well as IOT.
-
+After searching which is the most complex organ in the human body at some point in my childhood, I started wondering how the brain works, then discovered machine learning and neural networks during Bachelors. More about me, I am a graduate computer engineering student with international academic experience at University POLITEHNICA of Bucharest, currently a master student at University POLITEHNICA Timisoara. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-anghelea-556055259/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andreianghelea@gmail.com) 
